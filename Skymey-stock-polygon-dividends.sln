@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34205.153
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skymey-stock-polygon-dividends", "Skymey-stock-polygon-dividends\Skymey-stock-polygon-dividends.csproj", "{F822378F-0E50-45A2-BE41-91679A5D4E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F822378F-0E50-45A2-BE41-91679A5D4E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F822378F-0E50-45A2-BE41-91679A5D4E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F822378F-0E50-45A2-BE41-91679A5D4E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F822378F-0E50-45A2-BE41-91679A5D4E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {664BB43E-94BE-44F7-95C7-6961C376EEE5}
+	EndGlobalSection
+EndGlobal
